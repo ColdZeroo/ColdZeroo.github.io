@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+statfa.net	TRUE	/	FALSE	1999999999	wc_session_cookie_699efffe7f352336d21b355fd56ed1b8	m9IMZ4kgD0mMzwXUISQnC0LOfPwt67Pm%7C%7C1412632654%7C%7C1412629054%7C%7Cba1a9473933834c6b6c5f4f6b0fd6815
+statfa.net	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	0
+statfa.net	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	0
+
